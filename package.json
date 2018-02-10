@@ -6,17 +6,13 @@
   "author": "Jesse Pinho <jesse@jessepinho.com>",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node src/app.ts",
+    "start": "node src/app.js",
     "start:watch": "nodemon"
   },
   "dependencies": {
-    "express": "^4.16.2",
-    "ts-node": "^4.1.0"
+    "express": "^4.16.2"
   },
   "devDependencies": {
-    "@types/express": "^4.11.1",
-    "nodemon": "^1.14.12",
-    "tslint": "^5.9.1",
-    "typescript": "^2.7.1"
+    "nodemon": "^1.14.12"
   }
 }
