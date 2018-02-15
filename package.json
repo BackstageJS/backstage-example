@@ -1,8 +1,8 @@
 {
-  "name": "treehouse-example",
+  "name": "backstage-example",
   "version": "0.0.0",
-  "description": "An example usage of Treehouse",
-  "repository": "git@github.com:jessepinho/treehouse-example.git",
+  "description": "An example usage of Backstage Server",
+  "repository": "git@github.com:jessepinho/backstage-example.git",
   "author": "Jesse Pinho <jesse@jessepinho.com>",
   "license": "MIT",
   "scripts": {
