@@ -60,4 +60,5 @@ typings/
 # Filesystem
 files/**
 !files/**/
+!files/packages/.keep
 !files/tmp/.keep
